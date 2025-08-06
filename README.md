@@ -1,0 +1,1 @@
+Estos con los comandos para la terminal de Linux y para usar Git de una forma basica.
