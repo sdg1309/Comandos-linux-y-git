@@ -1,0 +1,13 @@
+como acceder al server:
+ssh sduque@104.237.143.142
+contraseña: 130903Mios
+
+Comandos:
+mkdir: crear una carpeta
+rmdir: eliminar carpeta
+touch: crear archivo
+cat: mirar archivo
+nano o vim (archivo): editar archivos
+mv (archivo) ruta de destino: mover un archivo
+cp (archivo) ruta de destino: copiar un archivo
+

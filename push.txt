@@ -1,0 +1,6 @@
+git remote add origin git@github.com:sdg1309/UN-MODELO-DE-COLAPSO-ESTELAR.git
+
+git add .
+git commit -m "Initial commit"
+
+git push -u origin main

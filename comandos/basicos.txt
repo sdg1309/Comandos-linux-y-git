@@ -1,0 +1,27 @@
+como acceder al server:
+ssh usuarioe@ip2
+
+Comandos:
+mkdir: crear una carpeta
+rmdir: eliminar carpeta
+touch: crear archivo
+cat: mirar archivo
+nano o vim (archivo): editar archivos
+mv (archivo) ruta de destino: mover un archivo
+cp (archivo) ruta de destino: copiar un archivo
+rm (archivo) en la carpeta donde esta el archivo: eliminamos ese archivo
+	
+
+
+Cuando se accede al archivo con vim, para guardar y salir se hace:
+1) apretar scape, para salir del modo de insercion o edicion
+2) escribir ":wq"
+
+Para subir y bajar archivos usamos el comando:
+scp (direccion de inicio) (direccion de destino)
+
+pwd: present working directory
+
+ls -a: mustra los archivos inclullendo los archivos ocultos del pc, comienzan con .
+
+
